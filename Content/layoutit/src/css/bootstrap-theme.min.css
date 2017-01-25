@@ -1,0 +1,7 @@
+@font-face {
+	font-family: Akbar, Serif
+	src: url(../../../akbar-webfont.woff);
+}
+.jumbotron {
+background-image: url("../../505672-645x356.jpg");
+background-size: cover;}
